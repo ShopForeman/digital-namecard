@@ -135,7 +135,7 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	background-color: #3246a8;
+	background-color: #0f32db;
 }
 
 .bg-color-white {
@@ -168,7 +168,7 @@ img.profile-pic {
 }
 
 .button {
-	background-color: #3246a8;
+	background-color: ##0f32db;
 	height: 48px;
 	padding-left: 24px
 	padding-right: 24px;
@@ -180,16 +180,16 @@ img.profile-pic {
 	font-weight: 300;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   img.profile-pic {
-    height: 60%;
-    width: 60%;
+    height: 90%;
+    width: 90%;
   }
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 680px) {
   img.profile-pic {
-    height: 80%;
-    width: 80%;
+    height: 90%;
+    width: 90%;
   }
 }
