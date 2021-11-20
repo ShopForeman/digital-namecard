@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
+N:York;Mike;;;
+FN: Mike York 
+ORG:Culver-Stockton College;
+TITLE:Assistant Technical Director and Facilites Manager/n Division of Fine Applied and Literary Arts
 EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+TEL;type=Mobile;type=VOICE:217 242 3290
+item1.ADR;type=WORK;type=pref:;;1 College Hill\Canton, MO\, 63435;United States
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:culver.edu
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
